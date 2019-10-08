@@ -1,0 +1,37 @@
+#tuning {
+    width: 50vw;
+    height: 30vh;
+    bottom: 0;
+    left: 0;
+    border-radius: 50px;
+}
+#tuning div {
+    margin: 20px 0;
+}
+#tuning p {
+    margin-bottom: 10px;
+}
+.inputki{
+    padding-left: 50px;
+    
+}
+.inputki input[type="text"],
+.inputki input[type="number"] {
+    padding: .5em;
+    background-color: rgb(33,50,58);
+    display: inline-block;
+    margin: 0;
+    align-content: center;
+    text-align: center;
+    align-self: center;
+}
+
+#tuning .buttonki button{
+    background-color: rgb(19, 133, 186);
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    align-self: center;
+    margin: 50px 20px 0 20px;   
+}
+
